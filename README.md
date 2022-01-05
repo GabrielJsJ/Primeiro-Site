@@ -1,6 +1,6 @@
-# portfolio
+# Meu Primeiro Site
 
-Portfólio do Desenvolvedor
+Primeiro projeto que fiz usando HTML/CSS/JavaScript
 
 ## Tarefas
 
